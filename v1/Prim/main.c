@@ -1,3 +1,4 @@
+// eval cc main.c $(pkg-config --libs --cflags raylib glib-2.0) -o 1.0.0-prim.out 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
